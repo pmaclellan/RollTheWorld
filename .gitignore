@@ -1,0 +1,9 @@
+Binaries/*
+DerivedDataCache/*
+Intermediate/*
+Saved/*
+Content/StarterContent/*
+Content/MobileStarterContent/*
+*.sdf
+*.sln
+*.suo
